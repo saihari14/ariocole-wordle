@@ -1,0 +1,6 @@
+{
+  "name": "Ariocole's Wordle",
+  "description": "A beautiful, responsive 5-letter Wordle game with unlimited gameplay, statistics, dark mode styling, and an interactive virtual keyboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
