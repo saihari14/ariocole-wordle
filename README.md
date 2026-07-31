@@ -1,20 +1,84 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🎯 ArioCole's Wordle
 
-# Run and deploy your AI Studio app
+A modern Wordle-inspired web application that recreates the classic word-guessing game while introducing additional gameplay modes and customization options. The application offers an intuitive interface, responsive design, and multiple difficulty settings for an engaging user experience.
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/713bd888-b078-498d-bc1a-ba97b283ca83
+- 🎮 Classic Wordle Gameplay
+- ♾️ Unlimited Play Mode
+- 📚 Strict Dictionary Validation
+- 🔥 Hard Mode
+- 📊 Game Statistics
+- ⌨️ Interactive Virtual Keyboard
+- 📱 Responsive Design
+- ⚡ Fast and Lightweight
 
-## Run Locally
+## 🛠️ Tech Stack
 
-**Prerequisites:**  Node.js
+- HTML5
+- CSS3
+- JavaScript
+- (Add React if applicable)
 
+## 📂 Project Structure
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```
+Wordle/
+│
+├── assets/
+├── css/
+├── js/
+├── images/
+├── index.html
+└── README.md
+```
+
+## 🚀 Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/wordle.git
+```
+
+2. Navigate into the project
+
+```bash
+cd wordle
+```
+
+3. Open `index.html`
+
+or
+
+```bash
+npm install
+npm start
+```
+
+(if using React)
+
+## 🎮 How to Play
+
+- Guess the hidden five-letter word.
+- You have six attempts.
+- Green = Correct letter in the correct position.
+- Yellow = Correct letter in the wrong position.
+- Gray = Letter not present.
+- Enable Hard Mode for an extra challenge.
+
+## 📸 Screenshots
+
+(Add screenshots here)
+
+## 📌 Future Improvements
+
+- Daily Challenge Mode
+- User Accounts
+- Leaderboards
+- Multiple Languages
+- Dark/Light Themes
+
+## 👨‍💻 Author
+
+Sai Hari
