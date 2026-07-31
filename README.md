@@ -1,4 +1,4 @@
-# 🎯 ArioCole's Wordle 
+# 🎯 ArioCole's Wordle
 
 A modern Wordle-inspired web application that recreates the classic word-guessing game while introducing additional gameplay modes and customization options. The application offers an intuitive interface, responsive design, and multiple difficulty settings for an engaging user experience.
 
